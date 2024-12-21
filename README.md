@@ -6,13 +6,6 @@
 
 _"When you have written many programs be assured that you can't make the same thing when the data is gone"_ :pencil2:
 
-<!-- **What have I learned**  -->
-
-
-<!-- * HyperText Markup Language or HTML
-* Cascading Style Sheets or CSS
-* Vanilla JavaScript
-* Mikrotik Hotspot -->
 
 **What I will and and I have studied well**
 
