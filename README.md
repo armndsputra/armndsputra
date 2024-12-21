@@ -6,24 +6,8 @@
 
 _"When you have written many programs be assured that you can't make the same thing when the data is gone"_ :pencil2:
 
-
-**What I will and and I have studied well**
-
 - [x] JavaScript
 - [x] Nodejs
 - [ ] C++ and C
 - [x] Java
 - [x] Kotlin
-
-**What will I do**
-- 🤔 Just look for more deeply about JavaScript Ajax
-- 😏 Strengthen the basic of programming
-- 🙏 See other people's programs that are better to learn
-- 🤗 Strengthen logic
-- :airplane: Dreaming Aimlessly
-- :weary: Sleep during the day stay up at night
-- :rainbow: Looking for inspiration in a lonely place
-
-
-
-<!-- <hr> -->
