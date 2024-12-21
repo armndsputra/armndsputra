@@ -16,15 +16,11 @@ _"When you have written many programs be assured that you can't make the same th
 
 **What I will and and I have studied well**
 
-- [x] HyperText Markup Language or HTML
-- [x] Cascading Style Sheets or CSS
 - [x] JavaScript
 - [x] Nodejs
 - [ ] C++ and C
 - [x] Java
 - [x] Kotlin
-- [x] Android Studio 
-- [x] Mikrotik Hotspot
 
 **What will I do**
 - 🤔 Just look for more deeply about JavaScript Ajax
